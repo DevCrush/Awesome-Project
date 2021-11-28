@@ -51,7 +51,7 @@ header {
     float: right;
 }
 #top-section-main{
-    background-image: url(../images/friends.jpg);
+    background-image: url(../images/footerbg.png);
     height: 740px;
     border: none;
 }
@@ -189,7 +189,7 @@ header {
     margin: auto;
 }
 #call-to-action{
-    background-image: url(images/darkdesk.png);
+    background-image: url(../images/darkdesk.png);
     background-position: 50% 50%;
     padding-bottom: 45px;
 }
